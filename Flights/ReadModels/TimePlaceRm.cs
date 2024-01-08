@@ -1,4 +1,4 @@
 ﻿namespace Flights.ReadModels
 {
-    public record TimePlaceRm(string Pime, DateTime Time);
+    public record TimePlaceRm(string Place, DateTime Time);
 }
